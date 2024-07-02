@@ -1,15 +1,15 @@
-# E-Commerce Sales and Revenue Dashboard
+## E-Commerce Sales and Revenue Dashboard
 
-# Dashboard Link : https://public.tableau.com/app/profile/jini.xu/viz/E-CommerceSalesandRevenue/E-commerceSalesandRevenue?publish=yes
+### Dashboard Link : https://public.tableau.com/app/profile/jini.xu/viz/E-CommerceSalesandRevenue/E-commerceSalesandRevenue?publish=yes
 
-# Insights
+### Insights
 1. Analyze sales trends over time to identify seasonal patterns or growth opportunities.
 2. Explore the popularity of different product categories across regions.
 3. Investigate the impact of payment methods on sales volume or revenue.
 4. Identify top-selling products within each category to optimize inventory and marketing strategies.
 5. Evaluate the performance of specific products or categories in different regions to tailor marketing campaigns accordingly.
 
-# Data
+### Data
 Variables
 - Order ID: Unique identifier for each sales order.
 - Date:Date of the sales transaction.
@@ -26,5 +26,5 @@ Calculated Variables
 - Percentage of Units Sold: Units Sold/Total Units Sold
 - Revenue Ratio: Revenue/Units Sold 
 
-## Summary
+### Summary
 
