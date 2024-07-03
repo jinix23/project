@@ -1,8 +1,8 @@
 ## E-Commerce Sales and Revenue Tableau Dashboard
 
 ### Dashboard Link : [https://public.tableau.com/app/profile/jini.xu/viz/E-CommerceSalesandRevenue/E-commerceSalesandRevenue?publish=yes]
-Overview of Dashboard
-[https://github.com/jinix23/project/assets/66094470/5a5ceb0b-1692-4ff3-be12-1cf385faddc2]
+
+    Overview of Dashboard: [https://github.com/jinix23/project/assets/66094470/5a5ceb0b-1692-4ff3-be12-1cf385faddc2]
 
 ### Insights
 1. Analyze sales trends over time to identify seasonal patterns or growth opportunities.
