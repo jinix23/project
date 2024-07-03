@@ -9,40 +9,13 @@ Here are some of the key projects featured in this repository:
 
 ### E-Commerce Sales and Revenue Tableau Dashboard
 
-Description: Briefly describe the project, its objectives, and the key findings.
+Description: The dataset provides a comprehensive overview of online sales transactions across different product categories. Each row represents a single transaction with detailed information such as the order ID, date, category, product name, quantity sold, unit price, total price, region, and payment method. The goals of this dashboard are analyzing sales trends over time to identify seasonal patterns or growth opportunities, exploring the popularity of different product categories across regions, and identifying top sales products within each category to optimize inventory and marketing strategies.
 
 Technologies Used: Tableau, Excel
 
 Link: https://public.tableau.com/app/profile/jini.xu/viz/E-CommerceSalesandRevenue/E-commerceSalesandRevenue?publish=yes
 
-### R Project
 
-Title:
-
-Description: Briefly describe the project, its objectives, and the key findings.
-
-Technologies Used: List the tools, libraries, and technologies you used.
-
-Highlights:
-
-[Key Highlight 1]
-
-[Link to Project Folder or Notebook]
-
-
-### Python Project
-
-Title:
-
-Description: Briefly describe the project, its objectives, and the key findings.
-
-Technologies Used: List the tools, libraries, and technologies you used (e.g., Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn).
-
-Highlights:
-
-[Key Highlight 1]
-
-[Link to Project Folder or Notebook]
 
 ## Skills
 - Data Analysis: Proficient in data cleaning, data wrangling, and exploratory data analysis.
