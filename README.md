@@ -25,5 +25,5 @@ Link: https://public.tableau.com/app/profile/jini.xu/viz/E-CommerceSalesandReven
 - SQL: Competent in querying databases and managing large datasets.
 
 ## Contact
-Feel free to reach out if you have any questions or if you would like to collaborate on a project. You can contact me via xuj86@gmail.com or connect with me on https://www.linkedin.com/in/jinixu/.
+Feel free to reach out if you have any questions. You can contact me via xuj86@gmail.com or connect with me on https://www.linkedin.com/in/jinixu/.
 
