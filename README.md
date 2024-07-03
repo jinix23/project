@@ -13,7 +13,7 @@ Description: Briefly describe the project, its objectives, and the key findings.
 
 Technologies Used: Tableau, Excel
 
-Link: [https://public.tableau.com/app/profile/jini.xu/viz/E-CommerceSalesandRevenue/E-commerceSalesandRevenue?publish=yes]
+Link: https://public.tableau.com/app/profile/jini.xu/viz/E-CommerceSalesandRevenue/E-commerceSalesandRevenue?publish=yes
 
 ### R Project
 
