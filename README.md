@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Jini, and I am a passionate and detail-oriented data analyst with a strong background in statistical analysis, data visualization, and machine learning. I have a knack for uncovering insights from complex datasets and turning data into actionable strategies.
+My name is Jini and I am a passionate and detail-oriented data analyst with a strong background in statistical analysis, data visualization, and machine learning. I have a knack for uncovering insights from complex datasets and turning data into actionable strategies.
 
 I have worked on various projects that showcase my ability to analyze, interpret, and visualize data to support decision-making processes. This GitHub repository contains some of the projects I have worked on, which highlight my skills in data cleaning, exploratory data analysis, and predictive modeling.
 
