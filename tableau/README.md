@@ -34,9 +34,9 @@ Calculated Variables:
 
 There are 240 online sales transactions and 9 variables that include order ID, date, category, product name, quantity sold, unit price, total price, region, and payment method. The two calculated variables are added that are percentage of revenue and percentage of units sold. The variable category contains 5 categories: Electronics, Home Appliances, Clothing, Books, Beauty Products, and Sports; and variable region contains 3 regions: North America, Europe, and Asia. 
 
-The Weekly Sales and Revenue plot showed the weekly sales and revenue for all categories and regions and both sales and revenue had a downward trend. The Revenue of Categories plot visulized the decreasing pattern of total revenue.
+The *Weekly Sales and Revenue* plot showed the weekly sales and revenue for all categories and regions and both sales and revenue had a downward trend. The *Revenue of Categories* plot visulized the decreasing pattern of total revenue.
 
-The Revenue of Categories plot indicated the monthly revenue of each category from January to August. Electronics had the highest revenue and Books and Beauty Products have relative low revenue. 
+The *Revenue of Categories* plot indicated the monthly revenue of each category from January to August. Electronics had the highest revenue and Books and Beauty Products have relative low revenue. 
 
 By selecting the time interval, the user could find out the Top 1 products by sales of each category. 
 
