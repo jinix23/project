@@ -7,9 +7,7 @@ I have worked on various projects that showcase my ability to analyze, interpret
 ## Projects
 Here are some of the key projects featured in this repository:
 
-### Tableau Project
-
-1. E-Commerce Sales and Revenue
+### E-Commerce Sales and Revenue Tableau Dashboard
 
 Description: Briefly describe the project, its objectives, and the key findings.
 
