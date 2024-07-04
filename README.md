@@ -15,7 +15,7 @@ Technologies Used: Tableau, Excel
 
 Tableau Dashboard Link: https://public.tableau.com/app/profile/jini.xu/viz/E-CommerceSalesandRevenue/E-commerceSalesandRevenue?publish=yes
 
-GitHub Link: https://github.com/jinix23/project/blob/main/tableau/ecommerce-sales-and-revenue-report.md
+GitHub Link: https://github.com/jinix23/project/blob/main/Tableau/E-Commerce-Dashboard-Report/Report.md
 
 
 ## Skills
