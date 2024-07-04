@@ -13,8 +13,9 @@ Description: A data visualization project using Tableau to analyze E-commerce sa
 
 Technologies Used: Tableau, Excel
 
-Link: https://public.tableau.com/app/profile/jini.xu/viz/E-CommerceSalesandRevenue/E-commerceSalesandRevenue?publish=yes
+Tableau Dashboard Link: https://public.tableau.com/app/profile/jini.xu/viz/E-CommerceSalesandRevenue/E-commerceSalesandRevenue?publish=yes
 
+GitHub Link: https://github.com/jinix23/project/blob/main/tableau/ecommerce-sales-and-revenue-report.md
 
 
 ## Skills
