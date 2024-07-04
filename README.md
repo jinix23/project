@@ -9,7 +9,7 @@ Here are some of the key projects featured in this repository:
 
 ### E-Commerce Sales and Revenue Tableau Dashboard
 
-Description: The dataset provides a comprehensive overview of online sales transactions across different product categories. Each row represents a single transaction with detailed information such as the order ID, date, category, product name, quantity sold, unit price, total price, region, and payment method. The goals of this dashboard are analyzing sales trends over time to identify seasonal patterns or growth opportunities, exploring the popularity of different product categories across regions, and identifying top sales products within each category to optimize inventory and marketing strategies.
+Description: A data visualization project using Tableau to analyze E-commerce sales and revenue data. The dataset offers a detailed look at online sales transactions across various product categories, including information on order ID, date, category, product name, quantity sold, unit price, total price, region, and payment method. The goals of this dashboard are analyzing sales trends over time to identify seasonal patterns or growth opportunities, exploring the popularity of different product categories across regions, and identifying top sales products within each category to optimize inventory and marketing strategies.
 
 Technologies Used: Tableau, Excel
 
