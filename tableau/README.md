@@ -29,10 +29,10 @@ Calculated Variables:
 - Percentage of Units Sold: Units Sold/Total Units Sold
 
 ### Technologies Used
-- Tableau
+- Tableau 
 - Excel
 
-### Analysis and Summary
+### Analysis  
 
 There are 240 online sales transactions and 9 variables that include order ID, date, category, product name, quantity sold, unit price, total price, region, and payment method. The two calculated variables are added that are percentage of revenue and percentage of units sold. The variable category contains 5 categories: Electronics, Home Appliances, Clothing, Books, Beauty Products, and Sports; and variable region contains 3 regions: North America, Europe, and Asia. 
 
@@ -40,10 +40,12 @@ The *Weekly Sales and Revenue* plot showed the weekly sales and revenue for all 
 
 The *Monthly Revenue of Categories* plot indicated the monthly revenue of each category from January to August. Electronics had the highest revenue and Books and Beauty Products have relative low revenue. Through January to August in 2024, Electronics had 43.4% total revenue and the second largest product type was Home Appliances with 23.1%. Books had the lowest revenue with 2.3%. 
 
-According to plots *Total Revenue of Regions in Percentage* and *Quaterly Revenue of Categories*, North America shared the largest market among 3 regions with 45.7% of total revenue in the first 8 months and it's main sales product type were Electronics and Books, and Asia and Europe had similar market shares. The main sales product type in Asia were Clothing and Sports, and for Europe were Home Appliances and Beauty Products. To keep or increase the market share, each region would be proper to marketing on the most popular product types. 
+According to plots *Total Revenue of Regions in Percentage* and *Quaterly Revenue of Categories*, North America shared the largest market among 3 regions with 45.7% of total revenue in the first 8 months and it's main sales product type were Electronics and Books, and Asia and Europe had similar market shares. The main sales product type in Asia were Clothing and Sports, and for Europe were Home Appliances and Beauty Products. 
 
-By selecting the time interval in *Filters* in the dashboard, the user could find out the Top 1 products by sales of each category and increase the inventory for the future if needed.
+### Summary and Discussion
 
-### Discussion
+Overall, the sales and revenue had a downward trend for all the categories from January to August, Q1 and North America had the highest Revenue so far. Based on the *Monthly Revenue of Categories* plot, each region would be proper to marketing on the most popular product types to keep or increase the market share. 
 
-The sales and revenue data is not available after August 2024 yet so the conclusions above may need to be adjusted when the newest data releases. 
+By selecting the time interval in *Filters* in the dashboard, the user could find out the top 1 products by sales of each category and increase the inventory for the future if needed.
+
+The sales and revenue data is only available from Junary to August in 2024 yet so the new analysis needs to be done when new data releases and the marketing and inventory suggestions will be updated. 
