@@ -17,6 +17,14 @@ Tableau Dashboard Link: https://public.tableau.com/app/profile/jini.xu/viz/E-Com
 
 GitHub Link: https://github.com/jinix23/project/blob/main/Tableau/E-Commerce-Dashboard-Report/Report.md
 
+### Car Insurance Claim Prediction (Ongoing)
+
+Description: Using the available variables to predict whether policyholder will file a claim in the next 6 months or not.
+
+Technologies Used: Python
+
+GitHub Link: https://github.com/jinix23/project/tree/main/Python/Car-Insurance-Claim
+
 
 ## Skills
 - Data Analysis: Proficient in data cleaning, data wrangling, and exploratory data analysis.
