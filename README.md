@@ -23,7 +23,7 @@ Description: Using the available variables to predict whether policyholder will 
 
 Technologies Used: Python
 
-GitHub Link: https://github.com/jinix23/project/tree/main/Python/Car-Insurance-Claim
+GitHub Link: https://github.com/jinix23/project/tree/main/Python/Car-Insurance-Claim-Prediction
 
 
 ## Skills
