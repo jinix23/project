@@ -38,9 +38,9 @@ There are 240 online sales transactions and 9 variables that include order ID, d
 
 The *Weekly Sales and Revenue* plot showed the weekly sales and revenue for all categories and regions and both sales and revenue had a downward trend. The *Monthly Revenue of Categories* plot visualized the decreasing pattern of total revenue.
 
-The *Monthly Revenue of Categories* plot indicated the monthly revenue of each category from January to August. Electronics had the highest revenue and Books and Beauty Products have relative low revenue. Through January to August in 2024, Electronics had 43.4% total revenue and the second largest product type was Home Appliances with 23.1%. Books had the lowest revenue with 2.3%. 
+The *Monthly Revenue of Categories* plot indicated the monthly revenue of each category from January to August. Electronics had the highest revenue and Books and Beauty Products had relatively low revenue. From January to August 2024, Electronics had 43.4% of total revenue and the second largest product type was Home Appliances with 23.1%. Books had the lowest revenue with 2.3%.
 
-According to plots *Total Revenue of Regions in Percentage* and *Quarterly Revenue of Categories*, North America shared the largest market among 3 regions with 45.7% of total revenue in the first 8 months and it's main sales product type were Electronics and Books, and Asia and Europe had similar market shares. The main sales product type in Asia were Clothing and Sports, and for Europe were Home Appliances and Beauty Products. 
+According to plots *Total Revenue of Regions in Percentage* and *Quarterly Revenue of Categories*, North America shared the largest market among 3 regions with 45.7% of total revenue in the first 8 months. The most popular product types in North America were Electronics and Books, and Asia and Europe had similar market shares. The main sales product types in Asia were Clothing and Sports, and for Europe were Home Appliances and Beauty Products.
 
 ### Summary and Discussion
 
